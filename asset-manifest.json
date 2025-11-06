@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asistencias-estudiantiles-oc/static/css/main.47710612.css",
+    "main.js": "/asistencias-estudiantiles-oc/static/js/main.2ecbe3be.js",
+    "index.html": "/asistencias-estudiantiles-oc/index.html",
+    "main.47710612.css.map": "/asistencias-estudiantiles-oc/static/css/main.47710612.css.map",
+    "main.2ecbe3be.js.map": "/asistencias-estudiantiles-oc/static/js/main.2ecbe3be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47710612.css",
+    "static/js/main.2ecbe3be.js"
+  ]
+}
