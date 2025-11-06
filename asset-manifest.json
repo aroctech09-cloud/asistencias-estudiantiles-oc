@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/asistencias-estudiantiles-oc/static/css/main.214fcbef.css",
-    "main.js": "/asistencias-estudiantiles-oc/static/js/main.9bdaaad3.js",
+    "main.css": "/asistencias-estudiantiles-oc/static/css/main.0e6df44c.css",
+    "main.js": "/asistencias-estudiantiles-oc/static/js/main.d11cc5d4.js",
     "static/media/logo_asistencias.jpg": "/asistencias-estudiantiles-oc/static/media/logo_asistencias.6af728d1ab506a791a23.jpg",
     "index.html": "/asistencias-estudiantiles-oc/index.html",
-    "main.214fcbef.css.map": "/asistencias-estudiantiles-oc/static/css/main.214fcbef.css.map",
-    "main.9bdaaad3.js.map": "/asistencias-estudiantiles-oc/static/js/main.9bdaaad3.js.map"
+    "main.0e6df44c.css.map": "/asistencias-estudiantiles-oc/static/css/main.0e6df44c.css.map",
+    "main.d11cc5d4.js.map": "/asistencias-estudiantiles-oc/static/js/main.d11cc5d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.214fcbef.css",
-    "static/js/main.9bdaaad3.js"
+    "static/css/main.0e6df44c.css",
+    "static/js/main.d11cc5d4.js"
   ]
 }
