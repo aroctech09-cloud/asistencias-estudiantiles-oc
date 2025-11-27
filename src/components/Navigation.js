@@ -111,7 +111,7 @@ const Navigation = () => {
               ))}
               {/* 🟢 CAMBIO 2: Botón de WhatsApp Móvil */}
               <motion.a
-                href="https://wa.me/5491234567890"
+                href="https://wa.me/8442401981"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`block w-full text-center ${greenGradient} text-white px-4 py-2 rounded-lg font-semibold transition-colors`}
